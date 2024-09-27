@@ -1,0 +1,8 @@
+Buiding website for tamari
+Dropdown
+design 
+ui
+signup
+signin
+gallery
+these are the things that needs to be done. 
