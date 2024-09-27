@@ -1,4 +1,4 @@
-Buiding website for tamari
+Buiding website for tamari and editing 
 Dropdown
 design 
 ui
@@ -7,4 +7,6 @@ signin
 gallery
 redesign
 talked to tamari
+editing
 these are the things that needs to be done. 
+And the editing 
