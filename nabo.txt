@@ -1,4 +1,4 @@
-Buiding website for tamari and editing 
+Buiding website for tamari and editing along Nafi
 Dropdown
 design 
 ui
@@ -8,5 +8,6 @@ gallery
 redesign
 talked to tamari
 editing
+Nafi
 these are the things that needs to be done. 
 And the editing 
