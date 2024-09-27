@@ -1,4 +1,4 @@
-Buiding website for tamari and editing 
+Buiding website for tamari and editing with Nayel for collab
 Dropdown
 design 
 ui
