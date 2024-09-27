@@ -6,4 +6,5 @@ signup
 signin
 gallery
 redesign
+talked to tamari
 these are the things that needs to be done. 
