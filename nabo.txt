@@ -5,4 +5,5 @@ ui
 signup
 signin
 gallery
+redesign
 these are the things that needs to be done. 
